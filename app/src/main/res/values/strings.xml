@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Contact List Final</string>
+    <string name="contacts">Contacts</string>
+
+    <string name="no_contacts_saved_yet">No contacts saved yet</string>
+    <string name="name">Name</string>
+    <string name="number">Number</string>
+    <string name="save">Save</string>
+    <string name="no_contacts_yet">No Contacts yet</string>
+
+</resources>
